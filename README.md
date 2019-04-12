@@ -2,7 +2,7 @@
 
 A neural network project for detecting weapons and guns from live video feeds.
 
-![realtime weapons and gun detection by james burnett burnett.tech](https://jamesburnett.org/wp-content/uploads/2019/02/real-time-weapons-gun-detection.gif)
+![realtime weapons and gun detection by james burnett burnett.tech](https://burnett.tech/wp-content/uploads/2019/04/real-time-weapons-gun-detection.gif)
 
 The focus of this project is to create a ConvNet (convolutional neural network) model for detecting guns and weapons in live video feeds. This is a dlib c++ project with a CNN model based on the dlib examples, but simplified into two programs, on for training the network and another for testing the netwiork.
 
