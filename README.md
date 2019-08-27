@@ -8,7 +8,7 @@ The focus of this project is to create a ConvNet (convolutional neural network) 
 
 The goal is to find the best possible CNN model for detecting handguns from video frames.
 
-More at https://burnett.tech
+More at https://jroburnett.com
 
 ## RequireMents
   - Ubuntu 18.04 (not nessessarly required but easiest to get going)
